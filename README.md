@@ -41,6 +41,7 @@ The following are technology used:
  
 NOTE: If no song is provided then your program will default to "The Sign" by Ace of Base and If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-
+### Author
+* Obiageli Ogbutor
 
 
