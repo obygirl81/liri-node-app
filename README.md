@@ -26,7 +26,9 @@ Liri uses the following commands:
 7.	Plot of the movie.
 8.	Actors in the movie.
  
-
+### Screenshot
+##### Homepage
+![Screenshot of home page](https://github.com/obygirl81/liri-node-app/blob/master/screenshots/Screen%20Shot%202019-08-24%20at%209.55.50%20AM.png)
 
 •	User types into terminal/gitbash the command “node liri do what it says” and the app will display the random.txt file
 The following are technology used:
